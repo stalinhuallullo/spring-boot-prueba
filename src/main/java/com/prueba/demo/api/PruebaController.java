@@ -10,6 +10,6 @@ public class PruebaController {
 
     @GetMapping("prueba")
     public String getAll(){
-        return "aaaaaaaaaaaaaaaa";
+        return "Taylor Swift";
     }
 }
